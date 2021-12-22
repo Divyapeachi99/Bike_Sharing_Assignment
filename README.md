@@ -19,8 +19,7 @@ They've hired a consulting firm to help them figure out what drives demand for t
 In predicting the demand for shared bicycles, what factors are most important to keep in mind.
 
 ## Conclusion:
-Uploaded a Python Notebook which consist of the the practical work done using Linear Regression Model and Presentation for explaination of the result and work done.
-
+>Uploaded a Python Notebook which consist of the the practical work done using Linear Regression Model and Presentation for explaination of the result and work done.
 ## Technologies Used
 Python 3.8
 
