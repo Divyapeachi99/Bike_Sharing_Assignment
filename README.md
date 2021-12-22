@@ -20,6 +20,25 @@ In predicting the demand for shared bicycles, what factors are most important to
 
 ## Conclusion:
 >Uploaded a Python Notebook which consist of the the practical work done using Linear Regression Model and Presentation for explaination of the result and work done.
+
+Variables that are significant to predict the demand for shared bikes are described below:
+- temp
+- yr
+- holiday
+- season
+- weekday Sunday
+- month
+
+And Here described below is the final list of variables with the size impacting the demands of bike sharing:
+- yr: coefficient of yr depicts that yr will increase bike hiring by 2019.944545 value if the unit increase in yr variable
+- season_Spring: coefficient of season_Spring depicts that season_Spring will decrease bike hiring by 1026.694652 value if the unit increase in season_Spring variable.
+- season_Winter: coefficient of season_Winter depicts that season_Winter will increase bike hiring by 534.701970 value if the unit increase in season_Winter variable.
+- mnth_Sept: coefficient of mnth_Sept depicts that mnth_Sept will increase bike hiring by 626.386774 value if the unit increase in mnth_Sept variable.
+- weathersit_LightRain_LightSnow_Thunderstorm: coefficient of weathersit_LightRain_LightSnow_Thunderstorm depicts that weathersit_LightRain_LightSnow_Thunderstorm will decrease bike hiring by 2685.592063 value if the unit increase in weathersit_LightRain_LightSnow_Thunderstorm variable.
+- weathersit_Mist_Cloudy: coefficient of weathersit_Mist_Cloudy depicts that weathersit_Mist_Cloudy will decrease bike hiring by 676.125770 value if the unit increase in weathersit_Mist_Cloudy variable.
+- temp: coefficient of temp depicts that temp will increase bike hiring by 676.125770 value if the unit increase in temp variable.
+- weekday_Sun: coefficient of weekday_Sun depicts that weekday_Sun will decrease bike hiring by 414.921335 value if the unit increase in weekday_Sun variable.
+
 ## Technologies Used
 Python 3.8
 
